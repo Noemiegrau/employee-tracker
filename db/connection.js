@@ -13,4 +13,4 @@ const db = mysql.createConnection(
     console.log('Connected to the election database.')
 );
 
-  module.exports = db;
+module.exports = db;

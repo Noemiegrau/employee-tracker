@@ -1,6 +1,7 @@
 const express = require('express');
 const db = require('./db/connection');
 const apiRoutes = require('./routes/apiRoutes');
+const cTable = require('console.table');
 
 const PORT = process.env.PORT || 3000;
 const app = express();

@@ -47,7 +47,7 @@ Here are some guidelines for installing the project on your local machine in ord
 
 6. Run ```node server.js``` or ```npm start``` in your terminal to launch the application.
 
-7. Enjoy and don't hesitate to contribute!
+7. Enjoy and don't hesitate to contribute! 🙂
 
 ## **_Link URL to GitHub Repository_**
 https://github.com/Noemiegrau/employee-tracker
